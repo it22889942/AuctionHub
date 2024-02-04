@@ -1,1 +1,2 @@
 # AuctionHub
+This is a project about an “online auction system”. This system mainly includes five personas and act their roles. An online auction platform is a website that enables users to place bids on things and buy them using an auction style. With the help of this system, sellers can advertise their goods for sale, and interested customers can place bids until the auction is over. The person who placed the highest offer at the end of the auction is normally the one who wins the item, and they can then finish the sale with the seller.
